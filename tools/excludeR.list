@@ -1,0 +1,6 @@
+*.go
+*.log
+.svn
+conf
+log
+units

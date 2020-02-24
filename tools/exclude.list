@@ -1,0 +1,6 @@
+client
+*.log
+.svn
+conf
+log
+bin/units
